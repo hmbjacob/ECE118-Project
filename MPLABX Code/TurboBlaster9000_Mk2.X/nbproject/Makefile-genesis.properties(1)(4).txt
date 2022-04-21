@@ -1,0 +1,13 @@
+#
+#Sat Nov 20 10:22:27 PST 2021
+default.languagetoolchain.version=3.01
+default.Pack.dfplocation=C\:\\Program Files\\Microchip\\MPLABX\\v5.50\\packs\\Microchip\\PIC32MX_DFP\\1.5.259
+conf.ids=default
+default.languagetoolchain.dir=C\:\\Program Files\\Microchip\\xc32\\v3.01\\bin
+default.com-microchip-mplab-nbide-toolchain-xc32-XC32LanguageToolchain.md5=a8d1477a0cbdce4f518d7c31ceeffdbe
+host.id=1lf2-yl2d-9l
+configurations-xml=62352a7b41767d129783367300479196
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=5232c20b48df3223daf8c79e5b83e9a8
+user-defined-mime-resolver-xml=none
+proj.dir=C\:\\Users\\jemcclel\\MPLABXProjects\\TurboBlaster9000_Mk2.X
+host.platform=windows

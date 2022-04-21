@@ -1,0 +1,13 @@
+#
+#Mon Nov 08 19:55:05 PST 2021
+default.languagetoolchain.version=3.01
+default.Pack.dfplocation=C\:\\Program Files\\Microchip\\MPLABX\\v5.50\\packs\\Microchip\\PIC32MX_DFP\\1.5.259
+conf.ids=default
+default.languagetoolchain.dir=C\:\\Program Files\\Microchip\\xc32\\v3.01\\bin
+default.com-microchip-mplab-nbide-toolchain-xc32-XC32LanguageToolchain.md5=a8d1477a0cbdce4f518d7c31ceeffdbe
+host.id=12eh-0pap-jj
+configurations-xml=78a0dd9f321bc81c265ddce80e65e468
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=5232c20b48df3223daf8c79e5b83e9a8
+user-defined-mime-resolver-xml=none
+proj.dir=C\:\\Users\\jemcclel\\MPLABXProjects\\ECE_118_Project.X
+host.platform=windows
